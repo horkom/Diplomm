@@ -1,4 +1,4 @@
-# YouGile QA — Diploma Project
+# YouGile QA — Diplom Project
 
 Дипломный проект по автоматизации тестирования веб-приложения [YouGile](https://ru.yougile.com/).
 
